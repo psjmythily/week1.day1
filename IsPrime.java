@@ -5,7 +5,6 @@ public class IsPrime {
 	public static void main(String[] args) {
 		
 		int n = 7;
-		int check = 0;
 		boolean isPrime = false;
 		
 		for(int i=2; i<(n-1); i++)
